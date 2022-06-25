@@ -11,3 +11,8 @@ Visual Information Reasoning, VIR
 ### 数据集介绍
 
 本数据集包含共计 4189 张采集的商超购物小票，其中中文小票2005张，英文小票2184张，每个语种至少包含10个不同商户。
+
+### 累计误差
+![image](https://user-images.githubusercontent.com/91605267/175759654-cc465ee4-c1bb-4917-956a-f4681bce20e1.png)
+
+由于仍在比赛，相关model将在比赛后更新
